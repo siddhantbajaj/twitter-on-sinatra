@@ -1,0 +1,12 @@
+*{
+	margin: 0
+}
+#DNAV{
+	transition: 1s height;
+}
+#NAV{
+	transition: 1s height;
+}
+#mainText{
+	transition: 1s line-height;
+}
